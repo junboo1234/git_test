@@ -8,3 +8,8 @@
 - git checkout branchName
 - git pull
 - git fetch
+
+
+# git convention
+
+
