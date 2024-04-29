@@ -13,3 +13,4 @@
 # git convention
 
 
+- git 등록 
